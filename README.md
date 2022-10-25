@@ -1,4 +1,4 @@
-branched from https://github.com/Unity-Technologies/arfoundation-samples.git
+forked from https://github.com/Unity-Technologies/arfoundation-samples.git
 
 # AR Foundation Samples
 
